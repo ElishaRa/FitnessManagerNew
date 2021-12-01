@@ -20,7 +20,9 @@ public class ConsoleUI {
 			this.outputFilename = null;
 			this.stdin = new Scanner(System.in);
 			
-			System.out.print("Hello!\n\nWelcome to your Fitness Manager\n\nHere you can keep track"
+		System.out.println("This is an example of how to commit new changes.");
+		
+		System.out.print("Hello!\n\nWelcome to your Fitness Manager\n\nHere you can keep track"
 					+ " of your fitness progress\nby tracking your calorie consuption, activite time\nand"
 					+ " calories burnt. This helps you to make educated\ndecsions when it comes to your "
 					+ "health.\n");
