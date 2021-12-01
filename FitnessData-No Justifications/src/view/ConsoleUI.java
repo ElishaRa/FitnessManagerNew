@@ -20,6 +20,8 @@ public class ConsoleUI {
 			this.outputFilename = null;
 			this.stdin = new Scanner(System.in);
 			
+			System.out.print("testing from eclipse");
+			
 			System.out.print("Hello!\n\nWelcome to your Fitness Manager\n\nHere you can keep track"
 					+ " of your fitness progress\nby tracking your calorie consuption, activite time\nand"
 					+ " calories burnt. This helps you to make educated\ndecsions when it comes to your "
